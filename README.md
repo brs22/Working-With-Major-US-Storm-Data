@@ -1,0 +1,1 @@
+A project [Working With Major US Storm Data](https://stories.thedataproject.net/docs/3-storm_content/), which would include: working with API, working with data (assessing and manipulating two data series and data types).
